@@ -1,0 +1,25 @@
+Q7. Create a Department table with following structure
+
+
+mysql> create table dept
+    -> (dept_id decimal(4,0) default 0,
+    -> dept_name varchar(30) ,
+    -> manager_id decimal(6,0) default 0,
+    -> location_id decimal(4,0) );
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> alter table dept
+    -> add primary key(dept_id,manager_id);
+Query OK, 0 rows affected (0.08 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> desc dept;
++-------------+--------------+------+-----+---------+-------+
+| Field       | Type         | Null | Key | Default | Extra |
++-------------+--------------+------+-----+---------+-------+
+| dept_id     | decimal(4,0) | NO   | PRI | 0       |       |
+| dept_name   | varchar(30)  | YES  |     | NULL    |       |
+| manager_id  | decimal(6,0) | NO   | PRI | 0       |       |
+| location_id | decimal(4,0) | YES  |     | NULL    |       |
++-------------+--------------+------+-----+---------+-------+
+4 rows in set (0.00 sec)
