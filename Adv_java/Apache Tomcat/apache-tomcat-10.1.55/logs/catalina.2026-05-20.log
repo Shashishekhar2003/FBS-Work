@@ -1,0 +1,106 @@
+20-May-2026 14:47:12.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.55
+20-May-2026 14:47:12.930 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 5 2026 13:33:02 UTC
+20-May-2026 14:47:12.931 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.55.0
+20-May-2026 14:47:12.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+20-May-2026 14:47:12.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-May-2026 14:47:12.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-May-2026 14:47:12.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-25.0.2
+20-May-2026 14:47:12.933 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           25.0.2+10-LTS-69
+20-May-2026 14:47:12.933 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-May-2026 14:47:12.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55
+20-May-2026 14:47:12.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55
+20-May-2026 14:47:12.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\conf\logging.properties
+20-May-2026 14:47:12.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-May-2026 14:47:12.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-May-2026 14:47:12.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-May-2026 14:47:12.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+20-May-2026 14:47:12.952 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-May-2026 14:47:12.953 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+20-May-2026 14:47:12.954 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-May-2026 14:47:12.954 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-May-2026 14:47:12.954 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-May-2026 14:47:12.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-May-2026 14:47:12.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55
+20-May-2026 14:47:12.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55
+20-May-2026 14:47:12.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\temp
+20-May-2026 14:47:12.963 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-25.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jre1.8.0_461\bin;D:\Java\jre1.8.0_461\bin;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-25.0.2\bin;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ASUSU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre1.8.0_461\bin;D:\Java\jre1.8.0_461\bin;C:\Program Files\Java\jdk-24\bin;C:\Users\ASUSU\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUSU\AppData\Local\PowerToys\DSCModules\;C:\Users\ASUSU\AppData\Roaming\npm;C:\Program Files\Java\jdk-25.0.2\bin;C:\Users\ASUSU\.dotnet\tools;E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55;E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55;;.]
+20-May-2026 14:47:13.203 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-May-2026 14:47:13.233 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [524] milliseconds
+20-May-2026 14:47:13.283 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-May-2026 14:47:13.284 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.55]
+20-May-2026 14:47:13.294 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\docs]
+20-May-2026 14:47:13.579 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\docs] has finished in [284] ms
+20-May-2026 14:47:13.580 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\examples]
+20-May-2026 14:47:14.686 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\examples] has finished in [1,106] ms
+20-May-2026 14:47:14.687 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\host-manager]
+20-May-2026 14:47:14.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\host-manager] has finished in [50] ms
+20-May-2026 14:47:14.739 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\manager]
+20-May-2026 14:47:14.790 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\manager] has finished in [51] ms
+20-May-2026 14:47:14.791 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\myapp]
+20-May-2026 14:47:14.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\myapp] has finished in [41] ms
+20-May-2026 14:47:14.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\ROOT]
+20-May-2026 14:47:14.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\C-DAC\PGCP-AC\Adv_Java\Apache Tomcat\apache-tomcat-10.1.55\webapps\ROOT] has finished in [31] ms
+20-May-2026 14:47:14.870 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-May-2026 14:47:14.914 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1679] milliseconds
+20-May-2026 14:52:25.460 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/E:/C-DAC/PGCP-AC/Adv_Java/Apache%20Tomcat/apache-tomcat-10.1.55/conf/tomcat-users.xml]
+20-May-2026 14:52:25.470 SEVERE [Catalina-utility-2] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [42] column [34]
+	org.xml.sax.SAXParseException; lineNumber: 42; columnNumber: 34; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1465)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.scanAttributeValue(XMLScanner.java:943)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1532)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1372)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2736)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:635)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:551)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:890)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:137)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1225)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:629)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1525)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:374)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:625)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:140)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:957)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1170)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1152)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:369)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1474)
+20-May-2026 14:52:25.478 SEVERE [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Error reloading memory user database [UserDatabase] from updated source [file:/E:/C-DAC/PGCP-AC/Adv_Java/Apache%20Tomcat/apache-tomcat-10.1.55/conf/tomcat-users.xml]
+	org.xml.sax.SAXParseException; lineNumber: 42; columnNumber: 34; The value of attribute "password" associated with an element type "user" must not contain the '<' character.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1252)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:629)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1525)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:374)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:625)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:140)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:247)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:957)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1170)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1152)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:369)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1474)
+20-May-2026 14:52:35.498 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/E:/C-DAC/PGCP-AC/Adv_Java/Apache%20Tomcat/apache-tomcat-10.1.55/conf/tomcat-users.xml]
+20-May-2026 14:57:05.975 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Reloading context [/myapp]
+20-May-2026 14:57:05.980 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/myapp] has started
+20-May-2026 14:57:06.058 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/myapp] is completed
+20-May-2026 15:00:46.510 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/E:/C-DAC/PGCP-AC/Adv_Java/Apache%20Tomcat/apache-tomcat-10.1.55/conf/tomcat-users.xml]
+20-May-2026 15:22:07.135 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-May-2026 15:22:07.145 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-May-2026 15:22:07.154 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-May-2026 15:22:07.159 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
